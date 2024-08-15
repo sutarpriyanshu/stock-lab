@@ -469,6 +469,11 @@ function App() {
             © 2024 Stock Price Checker. All rights reserved.
           </Typography>
         </Box>
+        <Box sx={{ mt: 4, textAlign: "center" }}>
+          <Typography variant="body2" color="text.secondary">
+            Developed by- Priyanshu Sutar
+          </Typography>
+        </Box>
       </Container>
     </ThemeProvider>
   );
